@@ -1,0 +1,9 @@
+title: Kota Tangerang Selatan
+description: Your site description
+baseurl: ""  # Leave empty for user/organization pages (username.github.io)
+url: "https://dapoerela85.github.io/tangsel"  # Replace with your URL
+
+plugins:
+  - jekyll-feed
+
+markdown: kramdown
