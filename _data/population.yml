@@ -1,0 +1,136 @@
+districts:
+  - name: Serpong Utara
+    population: 141000
+    subdistricts:
+      - name: Pakualam
+        population: 16172
+      - name: Pakujaya
+        population: 28601
+      - name: Pakulonan
+        population: 13121
+      - name: Pondok Jagung
+        population: 20669
+      - name: Pondok Jagung Timur
+        population: 19742
+      - name: Jelupang
+        population: 34230
+      - name: Lengkong Karya
+        population: 8465
+
+  - name: Serpong
+    population: 166717
+    subdistricts:
+      - name: Lengkong Wetan
+        population: 10704
+      - name: Lengkong Gudang
+        population: 12446
+      - name: Lengkong Gudang Timur
+        population: 12620
+      - name: Cilenggang
+        population: 11014
+      - name: Rawabuntu
+        population: 29340
+      - name: Rawa Mekar Jaya
+        population: 19102
+      - name: Serpong
+        population: 21809
+      - name: Ciater
+        population: 28664
+      - name: Buaran
+        population: 21018
+
+  - name: Setu
+    population: 93634
+    subdistricts:
+      - name: Kademangan
+        population: 24844
+      - name: Muncul
+        population: 11408
+      - name: Keranggan
+        population: 8843
+      - name: Setu
+        population: 15308
+      - name: Babakan
+        population: 13113
+      - name: Bakti Jaya
+        population: 20118
+
+  - name: Pondok Aren
+    population: 301004
+    subdistricts:
+      - name: Pondok Kacang Barat
+        population: 25002
+      - name: Pondok Kacang Timur
+        population: 38496
+      - name: Parigi
+        population: 22269
+      - name: Parigi Baru
+        population: 13047
+      - name: Pondok Aren
+        population: 32700
+      - name: Jurangmangu Barat
+        population: 38336
+      - name: Jurangmangu Timur
+        population: 31328
+      - name: Pondok Betung
+        population: 33426
+      - name: Pondok Karya
+        population: 27103
+      - name: Pondok Jaya
+        population: 11027
+      - name: Pondok Pucung
+        population: 28270
+
+  - name: Ciputat
+    population: 223313
+    subdistricts:
+      - name: Jombang
+        population: 44953
+      - name: Sawah
+        population: 33768
+      - name: Sawah Baru
+        population: 30451
+      - name: Serua
+        population: 42581
+      - name: Serua Indah
+        population: 22303
+      - name: Ciputat
+        population: 25249
+      - name: Cipayung
+        population: 27008
+
+  - name: Ciputat Timur
+    population: 171251
+    subdistricts:
+      - name: Pondok Ranji
+        population: 30396
+      - name: Rengas
+        population: 24360
+      - name: Rempoa
+        population: 26341
+      - name: Cempaka Putih
+        population: 26492
+      - name: Cireundeu
+        population: 26306
+      - name: Pisangan
+        population: 36816
+
+  - name: Pamulang
+    population: 329610
+    subdistricts:
+      - name: Kedaung
+        population: 52273
+      - name: Bambu Apus
+        population: 30453
+      - name: Benda Baru
+        population: 45207
+      - name: Pondok Benda
+        population: 55926
+      - name: Pamulang Barat
+        population: 54264
+      - name: Pamulang Timur
+        population: 32395
+      - name: Pondok Cabe Udik
+        population: 22039
+      - name: Pondok Cabe Ilir
+        population: 37053
