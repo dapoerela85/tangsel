@@ -6,4 +6,7 @@ url: "https://dapoerela85.github.io/tangsel"  # Replace with your URL
 plugins:
   - jekyll-feed
 
+include:
+  - "*.js.liquid"
+
 markdown: kramdown

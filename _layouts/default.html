@@ -16,7 +16,7 @@
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   // Get data from Jekyll
-  const districts = {% raw %}{{ site.data.population | jsonify }}{% endraw %};
+  const districts = {{ site.data.districts | jsonify }};
 
   // Prepare data for District chart
   const districtLabels = districts.map(d => d.name);
